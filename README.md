@@ -15,11 +15,11 @@ Desenvolver um dashboard para visualização de indicadores de performance (KPIs
 - `/data`: Planilhas e bases de dados utilizadas.
 
 ### 🛠️ Tecnologias Previstas
-- Python / Pandas (Tratamento de dados)
+- Python  (Tratamento de dados)
 - Power BI ou Dash/Plotly (Visualização)
 - Git/GitHub (Versionamento)
 
 ### 👨‍🎓 Autor
-- **Seu Nome Completo**
-- Instituição: SENAI Sorocaba (Santa Rosália)
+- **Luis Gustavo de Lima Melo**
+- Instituição: SENAI Sorocaba (Senai gaspar Ricardo Junior - Santa Rosália)
 - Curso: Tecnologia em Mecatrônica Industrial
